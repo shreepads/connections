@@ -1,7 +1,8 @@
 # Copyright (c) 2024 Shreepad Shukla
 # SPDX-License-Identifier: MIT
 
-# Based on the guide at https://medium.com/predict/a-simple-comprehensive-guide-to-running-large-language-models-locally-on-cpu-and-or-gpu-using-c0c2a8483eee
+# Based on the guide at https://medium.com/predict/a-simple-comprehensive-guide-to-running-large-language-models-locally-on-cpu-and-or-gpu-using-c0c2a8483eee and
+# the document at https://docs.mistral.ai/capabilities/embeddings/
 # Input strings from NYT's Connections game (https://www.nytimes.com/games/connections) published on 20th Apr 2024
 
 # Imports
